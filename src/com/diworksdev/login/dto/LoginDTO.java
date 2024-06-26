@@ -10,7 +10,7 @@ public class LoginDTO {
 	}
 
 	public void setId(int id){
-		this.id = id;
+		this.id=id;
 	}
 
 	public String getName(){
@@ -18,7 +18,7 @@ public class LoginDTO {
 	}
 
 	public void setName(String name){
-		this.name = name;
+		this.name=name;
 	}
 
 	public String getPassword(){
@@ -26,7 +26,7 @@ public class LoginDTO {
 	}
 
 	public void setPassword(String password){
-		this.password = password;
+		this.password=password;
 	}
 
 }

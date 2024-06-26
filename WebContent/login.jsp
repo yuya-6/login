@@ -12,6 +12,6 @@
 		<s:textfield name="name"/>
 		<s:password name="password"/>
 		<s:submit value="ログイン"/>
-	</s:form action>
+	</s:form>
 </body>
 </html>
